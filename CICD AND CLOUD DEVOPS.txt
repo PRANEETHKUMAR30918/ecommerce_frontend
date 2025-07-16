@@ -1,0 +1,42 @@
+CI/CD AND CLOUD DEVOPS
+
+
+DevOps = Development(plan,code,test,build) + operations(release,deploy,monitor,operate)
+
+-> Collaboration between development and operations teams
+-> Automation of software delivery process
+-> Continuous Integration (CI) and Continuous Delivery (CD)
+-> Improve quality and speed
+
+
+->Continuous integration
+
+      -Automatically build and test when there is a change in code
+      -Ensure the bug free code
+      -Ensures higher code quality and reduces integration issues
+      -Packaging the application (war/jar/docker image)
+
+-> Continuous deployment
+      -Automatically deploy for production
+
+
+Life Cycle :
+--------------------------------------
+code--> build --> test--> deployment
+
+
+Tools:
+--------------------------------------------------
+Code - Git, GitHub, GitLab, Bitbucket
+Build - war/Jar/Docker images
+Test - Pytest, Junit test, SonarQube
+Deploy-Apache/Tomcat, Docker, Kubernetes
+
+
+
+Git:
+->
+
+
+
+
